@@ -10,5 +10,5 @@ Tôi là Long T. Kira, bạn có thể gọi tôi là Long hoặc Kira, chữ "T
 
 Cảm ơn các bạn dù đó là ai. Tạm thời chưa có bài viết gì đâu.
 
-[GitHub](https://github.com/kirazero17)
+[GitHub](https://github.com/kirazero17) <br/>
 [Docker](https://hub.docker.com/u/logm250)
