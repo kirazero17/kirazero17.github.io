@@ -3,7 +3,6 @@ layout: post
 title:  "Tôi là ai ?"
 date:   2024-07-04 09:52:04 +0700
 categories: jekyll update
-sticky: true
 ---
 Nói một cách ngắn gọn thì bạn cũng không thực sự quan tâm tôi là ai. Nên tôi xin tự giới thiệu cho vui. <br/>
 
