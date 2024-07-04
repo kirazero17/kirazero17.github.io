@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Tôi là ai
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Nói một cách ngắn gọn thì bạn cũng không thực sự quan tâm tôi là ai. Nên tôi xin tự giới thiệu cho vui. <br/>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tôi là Long T. Kira, bạn có thể gọi tôi là Long hoặc Kira, chữ "T" về cơ bản giống chữ "D" trong _Monkey [D.] Luffy_, chính tôi cũng không biết để làm mợ gì. Hiện tại tôi đang bắt đầu tìm hiểu về mạng, dữ liệu, và thuật toán. Công việc ngoài đời của tôi... à thôi không quan trọng đâu. Nhưng tôi hy vọng các bạn sẽ vô tình đi qua và nhìn thấy mấy thứ tôi chia sẻ về những gì tôi tìm hiểu được. <br/>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Cảm ơn các bạn dù đó là ai. Tạm thời chưa có bài viết gì đâu.
 
-
-[jekyll-organization]: https://github.com/jekyll
+[GitHub](https://github.com/kirazero17)
+[Docker](https://hub.docker.com/u/logm250)
